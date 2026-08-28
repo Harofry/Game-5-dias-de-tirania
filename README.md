@@ -57,6 +57,6 @@ O jogo acompanha a contagem regressiva para a aniquilação:
 * **Armazenamento:** 500 MB de espaço livre
 
 ## 🛠️ Equipe de Desenvolvimento
-* **Gabriel Giulian Andrade Rego Pinheiro:** Desenvolvedor e Produtor[cite: 3, 4].
-* **Caio Gabriel Bezerra Cardoso:** Desenvolvedor (Lógica de batalha, eventos e programação)[cite: 3, 4].
-* **Francisco Warlen Sarmento Silva:** Game Designer (Design de fases, mecânicas e escrita narrativa)[cite: 3, 4].
+* **Gabriel Giulian:** Desenvolvedor e Produtor[cite: 3, 4].
+* **Caio Gabriel:** Desenvolvedor (Lógica de batalha, eventos e programação)[cite: 3, 4].
+* **Francisco Warlen:** Game Designer (Design de fases, mecânicas e escrita narrativa)[cite: 3, 4].
