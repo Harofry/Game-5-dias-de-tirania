@@ -6,13 +6,13 @@ Projeto desenvolvido para a disciplina IMD0521 - Fundamentos de Jogos Digitais (
 ## 📖 Sinopse e Enredo
 Na pele de Elian, um humilde camponês de uma longínqua aldeia, você é convocado a representar seu povo no casamento de Eurídice, filha do cruel suserano Valerius Harrenhal. A atmosfera festiva é quebrada quando o tirano acusa os líderes dos feudos de roubarem uma relíquia ancestral de valor inestimável. 
 
-Em retaliação, Valerius inicia uma inquisição brutal, ordenando que seus soldados dizimem a população até que o objeto seja recuperado. Trocando a enxada por uma arma, Elian é catapultado para o papel de investigador e guerreiro[cite: 3]. O tempo é implacável: o grupo tem exatamente **5 dias (120 horas)** para resolver o mistério antes que o massacre geral seja ordenado.
+Em retaliação, Valerius inicia uma inquisição brutal, ordenando que seus soldados dizimem a população até que o objeto seja recuperado. Trocando a enxada por uma arma, Elian é catapultado para o papel de investigador e guerreiro. O tempo é implacável: o grupo tem exatamente **5 dias (120 horas)** para resolver o mistério antes que o massacre geral seja ordenado.
 
 ## ✨ Características Principais
 * **Gênero:** RPG de Investigação e Sobrevivência.
 * **Público Alvo:** Juvenil/Adulto.
 * **Duração Estimada:** 1 a 2 horas.
-* **Engine:** RPG Maker MV ou MZ, utilizando extensões VisuStella e Yanfly para batalhas em turno e menus customizados.
+* **Engine:** RPG Maker MV, utilizando extensões VisuStella e Yanfly para batalhas em turno e menus customizados.
 
 ## ⚙️ Mecânicas de Jogo
 O gameplay é dividido em duas frentes vitais de sobrevivência e dedução:
