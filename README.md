@@ -56,6 +56,11 @@ O jogo acompanha a contagem regressiva para a aniquilação:
 * **Processador:** Intel Celeron
 * **Armazenamento:** 500 MB de espaço livre
 
+## 🚀 Como Jogar
+1. Faça o download dos arquivos do jogo através do nosso repositório no Google Drive: [Download via Google Drive](https://drive.google.com/drive/u/0/search?q=5%20dias)
+2. Extraia o arquivo baixado em uma pasta de sua preferência.
+3. Execute o arquivo principal do jogo (`Game - 5 dias de tirania.exe`).
+
 ## 🛠️ Equipe de Desenvolvimento
 * **Gabriel Giulian:** Desenvolvedor e Produtor.
 * **Caio Gabriel:** Desenvolvedor (Lógica de batalha, eventos e programação).
