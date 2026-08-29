@@ -63,5 +63,5 @@ O jogo acompanha a contagem regressiva para a aniquilação:
 
 ## 🛠️ Equipe de Desenvolvimento
 * **Gabriel Giulian:** Desenvolvedor e Produtor.
-* **Caio Gabriel:** Desenvolvedor (Lógica de batalha, eventos e programação).
-* **Francisco Warlen:** Game Designer (Design de fases, mecânicas e escrita narrativa).
+* **Caio Gabriel:** Desenvolvedor.
+* **Francisco Warlen:** Game Designer.
