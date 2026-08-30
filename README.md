@@ -61,6 +61,47 @@ O jogo acompanha a contagem regressiva para a aniquilação:
 2. Extraia o arquivo baixado em uma pasta de sua preferência.
 3. Execute o arquivo principal do jogo (`Game - 5 dias de tirania.exe`).
 
+## 📸 Galeria do jogo
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="img/gif_01_titulo.gif" width="320" alt="Tela de Título"><br>
+      <em><b>A Sombra de Valerius:</b> A imponente Bastilha da Agonia.</em>
+    </td>
+    <td align="center">
+      <img src="img/gif_02_exploracao.gif" width="320" alt="Exploração"><br>
+      <em><b>Sob os Olhos do Tirano:</b> Furtividade e navegação pelo castelo.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="img/gif_03_aliado.gif" width="320" alt="Recrutando Aliado"><br>
+      <em><b>Novos Aliados:</b> Diálogos estratégicos com Ermec.</em>
+    </td>
+    <td align="center">
+      <img src="img/gif_04_traicao.gif" width="320" alt="A Armadilha"><br>
+      <em><b>A Armadilha:</b> A trágica emboscada na sala do trono.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="img/gif_05_combate.gif" width="320" alt="Sistema de Combate"><br>
+      <em><b>A Fúria de Elian:</b> Sistema clássico de batalhas em turnos.</em>
+    </td>
+    <td align="center">
+      <img src="img/gif_06_investigacao.gif" width="320" alt="Investigação"><br>
+      <em><b>Buscando Respostas:</b> Coletando documentos e pistas secretas.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="img/gif_07_vila.gif" width="400" alt="A Vila Feudal"><br>
+      <em><b>O Mundo Lá Fora:</b> O contraste e a exploração da pacata Vila Feudal.</em>
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Equipe de Desenvolvimento
 * **Gabriel Giulian:** Desenvolvedor e Produtor.
 * **Caio Gabriel:** Desenvolvedor.
