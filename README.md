@@ -56,7 +56,7 @@ O jogo acompanha a contagem regressiva para a aniquilação:
 # 🎮 Apresentação da Gameplay do jogo: 5 Dias de Tirania
 
 **🔗 Acesso ao Vídeo**
-* [Assistir à Apresentação de Gameplay no Google Drive](https://drive.google.com/drive/u/0/search?q=5%20dias%20de%20tirania)
+* [Assistir à Apresentação de Gameplay no Google Drive](https://drive.google.com/file/d/1A931n0bjc8k5fsaCikvWoajPUBw6dy2S/view?usp=sharing)
 
 ---
 *Gabriel Giulian fala do começo ao fim.
