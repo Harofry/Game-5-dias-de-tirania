@@ -44,14 +44,22 @@ O jogo acompanha a contagem regressiva para a aniquilação:
 * **Nero, o Inquisitor:** Camponês corrompido que se tornou o sádico sub-chefe das forças de repressão.
 * **NPCs:** Povo comum (pescadores, artesãos, espiões duplos) e Capangas genéricos corrompidos pela violência.
 
-# 🎬 Apresentação: 5 Dias de Tirania
+# 🎬 Apresentação dos slides: 5 Dias de Tirania
 
 
 **🔗 Acesso ao Material**
 * [Assistir à Apresentação no Google Drive](https://drive.google.com/drive/u/0/search?q=5%20dias%20de%20tirania)
 
 ---
-*Gabriel Giulian fala a partir do tempo 7:10..
+*Gabriel Giulian fala a partir do tempo 7:10.
+
+# 🎮 Apresentação da Gameplay do jogo: 5 Dias de Tirania
+
+**🔗 Acesso ao Vídeo**
+* [Assistir à Apresentação de Gameplay no Google Drive](https://drive.google.com/drive/u/0/search?q=5%20dias%20de%20tirania)
+
+---
+*Gabriel Giulian fala do começo ao fim.
 
 ## 🎨 Direção de Arte e Interface
 * **Filosofia "Gótico Arcano":** O visual mescla a brutalidade medieval com energias arcanas brilhantes, contrastando a opressão de pedra fria com "LEDs mágicos" em tons de Ciano (Mana), Âmbar (Urgência) e Verde-Néon (Corrupção).
