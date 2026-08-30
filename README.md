@@ -48,7 +48,7 @@ O jogo acompanha a contagem regressiva para a aniquilação:
 
 
 **🔗 Acesso ao Material**
-* [Assistir à Apresentação no Google Drive](https://drive.google.com/drive/u/0/search?q=5%20dias%20de%20tirania)
+* [Assistir à Apresentação no Google Drive](https://drive.google.com/file/d/1FiLWFwAhi_mE5zKC_yrgz6adBI3I8yHs/view?usp=sharing)
 
 ---
 *Gabriel Giulian fala a partir do tempo 7:10.
